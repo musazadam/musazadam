@@ -1,7 +1,7 @@
-┌──(arch@movlud)-[~]
-└─$ cat README.md
 
-Hi! I am a 14 year-old boy who's interested in cybersecurity/programming and Linux distributions, which I'm trying to learn more about. It may be hard for me, which is a little strange for my age since most kids my age are chasing other dreams such as playing football, going to boxing/karate/MMA, playing games, and so on. I'm also interested in electronics, which I do the most, and networking, too, but I don't really have tools for that. I chase my dreams instead of listening to people's opinions, the reason most people give up; don't do that, please. Anyways, enough talking, have a great day. I use Arch, btw.
+──(arch@enes)-[~]-$ cat README.md 
+
+Hi! I am a 14 year-old boy who's interested in cybersecurity/programming and Linux distributions, which I'm trying to learn more about. It may be hard for me, which is a little strange for my age since most kids my age are chasing other dreams such as playing football, going to boxing/karate/MMA, playing games, and so on. I'm also interested in electronics, which I do the most, and networking, too, but I don't really have tools for that. I chase my dreams instead of listening to people's opinions, the reason most people give up; don't do that, please. Anyways, enough talking, have a great day. I use Arch btw.
 
 <!--
 **musazadam/musazadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
